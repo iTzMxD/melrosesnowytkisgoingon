@@ -1,6 +1,9 @@
 /*If you seeing this file then write your sentence in the lines[] array!*/
 let lines = [
         "Waves of Water!",
+        "Still getting coding errors!",
+        "Ruler is ruling",
+        "We are working",
         "Snixon is Vibing!",
         "Aliya is spying!",
         "Bijoy is glowing!",
